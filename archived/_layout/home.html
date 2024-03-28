@@ -1,0 +1,39 @@
+---
+# Ensure the front matter is here, but it can be empty
+---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="refresh" content="0; URL='/portfolio/'">
+    <title>Redirecting...</title>
+</head>
+<body>
+    <p>Redirecting to portfolio... <a href="/portfolio/">Click here if you are not redirected.</a></p>
+</body>
+</html>
+
+
+<!-- Original -->
+<!-- ---
+layout: archive
+---
+
+{{ content }}
+
+<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
+
+{% if paginator %}
+  {% assign posts = paginator.posts %}
+{% else %}
+  {% assign posts = site.posts %}
+{% endif %}
+
+{% assign entries_layout = page.entries_layout | default: 'list' %}
+<div class="entries-{{ entries_layout }}">
+  {% for post in posts %}
+    {% include archive-single.html type=entries_layout %}
+  {% endfor %}
+</div>
+
+{% include paginator.html %} -->
