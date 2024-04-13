@@ -17,5 +17,6 @@ I am currently on the lookout for my next challenge! Please feel free to have a 
 
 
 ![alt]({{ site.url }}{{ site.baseurl }}piha.jpg)
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/filename.jpg" alt="">
 
 
