@@ -7,7 +7,7 @@ Hi there! My name is Harvey; an avid robotics engineer and world explorer. I am 
 
 Besides robotics I love outdoor adventure sports (surfing, skiing, climbing, hiking, camping) and exploring new experiences and ideas with friends. 
 
-I am currently on the lookout for my next challenge! Please feel free to have a poke around this (under construction) website for an idea of my [recent projects](https://harveymerton.github.io/harveym/portfolio/), and my [LinkedIn profile](https://www.linkedin.com/in/harveymerton/) for an idea of my experience. I am responsive through LinkedIn should you have any questions!
+I am currently on the lookout for my next challenge! Please feel free to have a poke around this (under construction) website for an idea of my [recent projects](https://harveymerton.github.io/harveym/portfolio/), and my [LinkedIn profile](https://www.linkedin.com/in/harveymerton/) for an idea of my experience. I am responsive via LinkedIn should you wish to reach out, or have any questions!
 
 
 [//]: <> (For now, please enjoy some pictures of my adventures!) 
@@ -16,6 +16,6 @@ I am currently on the lookout for my next challenge! Please feel free to have a 
 [//]: <> , advised by [Prof. Ian Hunter](https://meche.mit.edu/people/faculty/IHUNTER@MIT.EDU) 
 
 
-
+![alt]({{ site.url }}{{ site.baseurl }}piha.jpg)
 
 
