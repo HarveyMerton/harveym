@@ -16,7 +16,6 @@ I am currently on the lookout for my next challenge! Please feel free to have a 
 [//]: <> , advised by [Prof. Ian Hunter](https://meche.mit.edu/people/faculty/IHUNTER@MIT.EDU) 
 
 
-![alt]({{ site.url }}{{ site.baseurl }}piha.jpg)
-<img src="{{ site.url }}{{ site.baseurl }}/assets/images/filename.jpg" alt="">
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/piha.jpg)
 
 
