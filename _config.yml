@@ -66,7 +66,7 @@ author:
     # - label: "Website"
     #   icon: "fas fa-fw fa-link"
     #   url: "https://"
-    - label: "email"
+    - label: "Email"
       icon: "fas fa-fw fa-envelope"
       url: "mailto:hmer101@mit.edu"
     - label: "LinkedIn"
@@ -79,7 +79,7 @@ author:
 
 footer:
   links:
-    - label: "email"
+    - label: "Email"
       icon: "fas fa-fw fa-envelope"
       url: "mailto:hmer101@mit.edu"
     - label: "LinkedIn"
@@ -115,10 +115,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
+      read_time: false
+      comments: false
+      share: false
+      related: false
   
   
 
