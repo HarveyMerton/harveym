@@ -16,13 +16,14 @@
 title: Harvey Merton
 url: "https://harveymerton.github.io"
 baseurl: "/harveym"
-email: hmer101@mit.edu
+email: hmer101@mit.edu #hmer101 [at] mit [dot] edu
 description: >- # this means to ignore newlines until "baseurl:"
   A website for all things Harvey.
 #twitter_username: username
 github_username: hmer101
 minimal_mistakes_skin: dirt #"dirt" #default
 search: true
+logo: "/assets/images/logo_mit_red.svg" 
 
 # Build settings
 markdown: kramdown
@@ -81,6 +82,9 @@ footer:
     # - label: "Twitter"
     #   icon: "fab fa-fw fa-twitter-square"
     #   url: "https://twitter.com/"
+    - label: "email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:{{ site.email }}"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/harveymerton/"
