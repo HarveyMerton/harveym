@@ -1,31 +1,13 @@
 ---
 title: "Multi-drone slung load carrying"
-excerpt: "Using a system of multiple drones to carrying a single slung load. Allows the carrying of heavier loads with more precise![alt text](phys_on_ground.jpg)."
+excerpt: "Using a system of multiple drones to carrying a single slung load. Allows the carrying of heavier loads with more precise control over load pose."
 header:
-  image: /assets/images/unsplash-gallery-image-1.jpg
-  teaser: assets/images/unsplash-gallery-image-1-th.jpg
+  image: /assets/images/masters/phys_on_ground.jpg
+  teaser: assets/images/masters/phys_on_ground.jpg
 sidebar:
-  # - title: "Associated with (like what job etc. Perhaps do this with tags instead)"
-  #   image: http://placehold.it/350x250
-  #   image_alt: "logo"
-    # text: "Designer, Front-End Developer"
-  # - label: "Code"
-  #   icon: "fab fa-fw fa-github"
-  #   url: "https://github.com/hmer101"
   - title: "Documentation"
     text: "Trajectory optimization and control"
-    #url: /assets/images/masters/6_8210_project_report.pdf
-# links:
-#   - label: "Email"
-#     icon: "fas fa-fw fa-envelope"
-#     url: "mailto:hmer101@mit.edu"
-  # - title: "Skills"
-  #   text: "ROS2"
-  # - tags:
-  #   - drone technology
-  #   - load carrying
-  #   - engineering
-  #   - research
+    url: /assets/docs/masters/6_8210_project_report.pdf
 gallery:
   - url: /assets/images/masters/phys_on_cart.jpg
     image_path: assets/images/masters/phys_on_cart.jpg
@@ -48,6 +30,7 @@ At least one publication and a thesis will come out of this project on completio
 Vid goes here!
 ![16.485_compiled_videos]({{ site.url }}{{ site.baseurl }}/assets/images/masters/16.485_compiled_videos.mp4)
 
+{% include gallery caption="This is a sample gallery to go along with this case study." %}
 
 # Visual Pose Estimation
 
