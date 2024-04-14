@@ -8,7 +8,7 @@ sidebar:
   # - title: "Documentation"
   #   #text: "Trajectory optimization and control"
   #   text: "/assets/docs/masters/6_8210_project_report.pdf"
-  links:
+  - links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
       url: "mailto:hmer101@mit.edu"
@@ -32,7 +32,14 @@ Extensive programming & platform development w/ PX4, ROS2 etc....
 At least one publication and a thesis will come out of this project on completion.
 
 Vid goes here!
-![16.485_compiled_videos]({{ site.url }}{{ site.baseurl }}/assets/images/masters/16.485_compiled_videos.mp4)
+<!-- ![16.485_compiled_videos]({{ site.url }}{{ site.baseurl }}/assets/images/masters/16.485_compiled_videos.mp4) -->
+
+
+<video width="320" height="240" controls>
+  <source src="{{ site.url }}{{ site.baseurl }}/assets/images/masters/16.485_compiled_videos.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 
 {% include gallery caption="This is a sample gallery to go along with this case study." %}
 
