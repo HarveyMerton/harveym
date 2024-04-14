@@ -7,7 +7,7 @@ header:
 sidebar:
   - title: "Documentation"
     text: "Trajectory optimization and control"
-    url: /assets/docs/masters/6_8210_project_report.pdf
+    url: "/assets/docs/masters/6_8210_project_report.pdf"
 gallery:
   - url: /assets/images/masters/phys_on_cart.jpg
     image_path: assets/images/masters/phys_on_cart.jpg
@@ -15,8 +15,8 @@ gallery:
   - url: /assets/images/masters/phys_testing_rig.jpg
     image_path: assets/images/masters/phys_testing_rig.jpg
     alt: "Drone on testing rig"
-  - url: /assets/images/masters/phys_on_ground.jpg
-    image_path: assets/images/masters/phys_on_ground.jpg
+  - url: /assets/images/masters/phys_on_ground_tall.jpg
+    image_path: assets/images/masters/phys_on_ground_tall.jpg
     alt: "Physical system on ground"
 ---
 
