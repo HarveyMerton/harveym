@@ -9,19 +9,16 @@ sidebar:
   #   image: http://placehold.it/350x250
   #   image_alt: "logo"
     # text: "Designer, Front-End Developer"
-  - label: "Code"
-    icon: "fab fa-fw fa-github"
-    url: "https://github.com/hmer101"
+  # - label: "Code"
+  #   icon: "fab fa-fw fa-github"
+  #   url: "https://github.com/hmer101"
   - title: "Documentation"
     text: "Trajectory optimization and control"
     url: /assets/images/masters/6_8210_project_report.pdf
-  links:
-    # - label: "Website"
-    #   icon: "fas fa-fw fa-link"
-    #   url: "https://"
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope"
-      url: "mailto:hmer101@mit.edu"
+links:
+  - label: "Email"
+    icon: "fas fa-fw fa-envelope"
+    url: "mailto:hmer101@mit.edu"
   # - title: "Skills"
   #   text: "ROS2"
   # - tags:
