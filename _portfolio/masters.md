@@ -6,8 +6,8 @@ header:
   teaser: assets/images/masters/phys_on_ground.jpg
 sidebar:
   - title: "Documentation"
-    text: "Trajectory optimization and control"
-    url: "/assets/docs/masters/6_8210_project_report.pdf"
+    #text: "Trajectory optimization and control"
+    text: "/assets/docs/masters/6_8210_project_report.pdf"
 gallery:
   - url: /assets/images/masters/phys_on_cart.jpg
     image_path: assets/images/masters/phys_on_cart.jpg
