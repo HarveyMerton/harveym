@@ -14,11 +14,11 @@ sidebar:
   #   url: "https://github.com/hmer101"
   - title: "Documentation"
     text: "Trajectory optimization and control"
-    url: /assets/images/masters/6_8210_project_report.pdf
-links:
-  - label: "Email"
-    icon: "fas fa-fw fa-envelope"
-    url: "mailto:hmer101@mit.edu"
+    #url: /assets/images/masters/6_8210_project_report.pdf
+# links:
+#   - label: "Email"
+#     icon: "fas fa-fw fa-envelope"
+#     url: "mailto:hmer101@mit.edu"
   # - title: "Skills"
   #   text: "ROS2"
   # - tags:
