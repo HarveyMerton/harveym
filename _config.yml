@@ -66,9 +66,9 @@ author:
     # - label: "Website"
     #   icon: "fas fa-fw fa-link"
     #   url: "https://"
-    # - label: "Twitter"
-    #   icon: "fab fa-fw fa-twitter-square"
-    #   url: "https://twitter.com/"
+    - label: "email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:hmer101@mit.edu"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/harveymerton/"
@@ -79,12 +79,9 @@ author:
 
 footer:
   links:
-    # - label: "Twitter"
-    #   icon: "fab fa-fw fa-twitter-square"
-    #   url: "https://twitter.com/"
     - label: "email"
       icon: "fas fa-fw fa-envelope"
-      url: "mailto:{{ site.email }}"
+      url: "mailto:hmer101@mit.edu"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/harveymerton/"
