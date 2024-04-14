@@ -1,0 +1,7 @@
+trackData{1} = {'Straight'; 214.306686} 
+trackData{2} = {'Straight'; 41.770242} 
+trackData{3} = {'Corner'; [31.677506 2.371040 3.000000]} 
+trackData{1} = {'Corner'; [15.492483 3.156467 3.000000]} 
+trackData{2} = {'Straight'; 17.754125} 
+trackData{1} = {'Straight'; 21.621435} 
+trackData{2} = {'Corner'; [9.818447 2.164864 3.000000]} 
