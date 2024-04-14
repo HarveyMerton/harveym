@@ -27,16 +27,17 @@ sidebar:
   #   - engineering
   #   - research
 gallery:
-  - url: /assets/images/masters/unsplash-gallery-image-1.jpg
-    image_path: assets/images/unsplash-gallery-image-1-th.jpg
-    alt: "placeholder image 1"
-  - url: /assets/images/unsplash-gallery-image-2.jpg
-    image_path: assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-  - url: /assets/images/unsplash-gallery-image-3.jpg
-    image_path: assets/images/unsplash-gallery-image-3-th.jpg
-    alt: "placeholder image 3"
+  - url: /assets/images/masters/phys_on_cart.jpg
+    image_path: assets/images/masters/phys_on_cart.jpg
+    alt: "Physical system on cart"
+  - url: /assets/images/masters/phys_testing_rig.jpg
+    image_path: assets/images/masters/phys_testing_rig.jpg
+    alt: "Drone on testing rig"
+  - url: /assets/images/masters/phys_on_ground.jpg
+    image_path: assets/images/masters/phys_on_ground.jpg
+    alt: "Physical system on ground"
 ---
+
 # Overview
 This project formed the core of my Master's work.
 
