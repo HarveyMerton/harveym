@@ -1,6 +1,6 @@
 ---
 title: "Multi-drone slung load carrying"
-excerpt: "Baz Boom design system including logo mark, website design, and branding applications."
+excerpt: "Using a system of multiple drones to carrying a single slung load. Allows the carrying of heavier loads with more precise![alt text](phys_on_ground.jpg)."
 header:
   image: /assets/images/unsplash-gallery-image-1.jpg
   teaser: assets/images/unsplash-gallery-image-1-th.jpg
@@ -15,13 +15,20 @@ sidebar:
   - title: "Documentation"
     text: "Trajectory optimization and control"
     url: /assets/images/masters/6_8210_project_report.pdf
-  - title: "Skills"
-    text: "ROS2"
-  - tags:
-    - drone technology
-    - load carrying
-    - engineering
-    - research
+  links:
+    # - label: "Website"
+    #   icon: "fas fa-fw fa-link"
+    #   url: "https://"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:hmer101@mit.edu"
+  # - title: "Skills"
+  #   text: "ROS2"
+  # - tags:
+  #   - drone technology
+  #   - load carrying
+  #   - engineering
+  #   - research
 gallery:
   - url: /assets/images/masters/unsplash-gallery-image-1.jpg
     image_path: assets/images/unsplash-gallery-image-1-th.jpg
