@@ -2,17 +2,16 @@
 title: "Multi-drone slung load carrying"
 excerpt: "Using a system of multiple drones to carry a single slung load. Allows the carrying of heavier loads with more precise control over load pose."
 header:
-  image: /assets/images/masters/phys_on_ground.jpg
+  #image: /assets/images/masters/phys_on_ground.jpg
   teaser: assets/images/masters/phys_on_ground.jpg
 sidebar:
   # - title: "Documentation"
   #   #text: "Trajectory optimization and control"
   #   text: "/assets/docs/masters/6_8210_project_report.pdf"
   - title: "Links"
-    links:
-      - label: "Email"
-        icon: "fas fa-fw fa-envelope"
-        url: "mailto:hmer101@mit.edu"
+  - label: "Email"
+    icon: "fas fa-fw fa-envelope"
+    url: "mailto:hmer101@mit.edu"
 gallery:
   - url: /assets/images/masters/phys_on_cart.jpg
     image_path: assets/images/masters/phys_on_cart.jpg
