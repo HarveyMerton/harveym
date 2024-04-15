@@ -31,7 +31,7 @@ gallery:
 
 - [Code](): Will be open-sourced after publishing.
 - Documentation:
-  - [Project report: visual pose estimation](/assets/docs/masters/16_485_project_report.pdf)
+  - [Project report: visual pose estimation]({{ site.url }}{{ site.baseurl }}/assets/docs/masters/16_485_project_report.pdf)
 
 
 # Overview
