@@ -2,16 +2,19 @@
 title: "Multi-drone slung load carrying"
 excerpt: "Using a system of multiple drones to carry a single slung load. Allows the carrying of heavier loads with more precise control over load pose."
 header:
-  #image: /assets/images/masters/phys_on_ground.jpg
+  image: /assets/images/masters/phys_on_ground.jpg
   teaser: assets/images/masters/phys_on_ground.jpg
 sidebar:
+  - title: "Summary"
+    text: "Using a system of multiple drones to carry a single slung load. Allows the carrying of heavier loads with more precise control over load pose."
+  # - title: "Code"
+  # - label: "GitHub"
+  #   icon: "fab fa-fw fa-github"
+  #   url: "https://github.com/hmer101"
   # - title: "Documentation"
-  #   #text: "Trajectory optimization and control"
-  #   text: "/assets/docs/masters/6_8210_project_report.pdf"
-  - title: "Links"
-  - label: "Email"
-    icon: "fas fa-fw fa-envelope"
-    url: "mailto:hmer101@mit.edu"
+  # - label: "rajectory optimization and control"
+  #   icon: "fas fa-fw fa-envelope"
+  #   url: "mailto:hmer101@mit.edu"
 gallery:
   - url: /assets/images/masters/phys_on_cart.jpg
     image_path: assets/images/masters/phys_on_cart.jpg
@@ -24,7 +27,18 @@ gallery:
     alt: "Physical system on ground"
 ---
 
+### Quick Links
+
+- [Code](): Will be open-sourced after publishing.
+- [Project report: visual pose estimation](/assets/docs/16_485_project_report.pdf)
+
+
 # Overview
+
+
+
+
+
 This project formed the core of my Master's work.
 
 Extensive programming & platform development w/ PX4, ROS2 etc....
