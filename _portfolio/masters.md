@@ -29,10 +29,11 @@ gallery:
     alt: "Physical system on ground"
 ---
 
-### Quick Links
-
 - [Code](): Will be open-sourced after publishing.
-- ![Project report: visual pose estimation](/assets/docs/masters/16_485_project_report.pdf)
+- Documentation:
+  - [Project report: visual pose estimation](/assets/docs/masters/16_485_project_report.pdf)
+
+
 # Overview
 
 
