@@ -1,6 +1,6 @@
 ---
 title: "Multi-drone slung load carrying"
-excerpt: "Using a system of multiple drones to carrying a single slung load. Allows the carrying of heavier loads with more precise control over load pose."
+excerpt: "Using a system of multiple drones to carry a single slung load. Allows the carrying of heavier loads with more precise control over load pose."
 header:
   image: /assets/images/masters/phys_on_ground.jpg
   teaser: assets/images/masters/phys_on_ground.jpg
@@ -8,10 +8,11 @@ sidebar:
   # - title: "Documentation"
   #   #text: "Trajectory optimization and control"
   #   text: "/assets/docs/masters/6_8210_project_report.pdf"
-  - links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope"
-      url: "mailto:hmer101@mit.edu"
+  - title: "Links"
+    - links:
+      - label: "Email"
+        icon: "fas fa-fw fa-envelope"
+        url: "mailto:hmer101@mit.edu"
 gallery:
   - url: /assets/images/masters/phys_on_cart.jpg
     image_path: assets/images/masters/phys_on_cart.jpg
@@ -31,17 +32,17 @@ Extensive programming & platform development w/ PX4, ROS2 etc....
 
 At least one publication and a thesis will come out of this project on completion.
 
-Vid goes here!
-<!-- ![16.485_compiled_videos]({{ site.url }}{{ site.baseurl }}/assets/images/masters/16.485_compiled_videos.mp4) -->
 
+{% include gallery caption="The physical multi-drone slung load platform I custom designed and built for testing." %}
 
-<video width="320" height="240" controls>
-  <source src="{{ site.url }}{{ site.baseurl }}/assets/images/masters/16.485_compiled_videos.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<figure>
+  <video width="960" height="720" controls>
+    <source src="{{ site.url }}{{ site.baseurl }}/assets/images/masters/16.485_compiled_videos.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+    <figcaption>Visual pose estimation functioning in a Gazebo simulation.</figcaption>
+</figure>
 
-
-{% include gallery caption="This is a sample gallery to go along with this case study." %}
 
 # Visual Pose Estimation
 
