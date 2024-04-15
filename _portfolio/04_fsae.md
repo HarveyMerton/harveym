@@ -46,50 +46,58 @@ Formula student is a series of international competitions where student teams de
 
 {% include gallery caption="F:SAE vehicles I was involved in." %}
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TOayDh8kS5Q?si=snIrMKrLFqk1-nX8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+**M021 vehicle testing:**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TOayDh8kS5Q?si=snIrMKrLFqk1-nX8" title="M021 vehicle testing" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br/><br/>
 
 Below is a small description of some of the roles I held, and projects I worked on during my time on the team. This is only a very small subset of the work which averaged around 10 hours a week in the early years, and 20 in the later years. More projects will be added as I find more images.
 
 
 # Chief Engineer
-The most significant role I held was Chief Engineer of the 2020 team and 2021 design phase. Unfortunately, due to COVID-19, the 2020 and 2021 competitions were cancelled. We also faced COVID-related restrictions on workshop access, which made it significantly more difficult to inspire and manage the team (of student volunteers) over this period. However, we still managed to effectively run the team in a hybrid manor; building and testing in the workshop when possible and designing and optimizing when not. Our success relative to other teams was evident by our win in 2022; the first competition after the COVID-period. This was a feat never before achieved by the team, and was a large part due to the way we managed the COVID period. The M022 car that raced in that competition was effectively the M021 car designed through the various (severe) New Zealand lockdowns.
+The most significant role I held was Chief Engineer of the 2020 team and 2021 design phase. Unfortunately, due to COVID-19, the 2020 and 2021 competitions were cancelled. We also faced COVID-related restrictions on workshop access, which made it significantly more difficult to inspire and manage the team (of student volunteers) over this period. However, we still managed to effectively run the team in a hybrid manor; building and testing in the workshop when possible and designing and optimizing when not. Our success relative to other teams was evident by our [win in 2022](https://www.saea.com.au/client_images/2458436.pdf); the first competition after the COVID-period. This was a feat never before achieved by the team, and was in large part due to the way we managed the COVID period. The M022 car that raced in that competition was effectively the M021 car designed throughout the various (severe) New Zealand lockdowns.
 
 Some images of the M021 concept design I presented during design reviews:
 
 ![fsae_cad]({{ site.url }}{{ site.baseurl }}/assets/images/fsae/fsae_cad.png)
-![fsae_cad_pres]({{ site.url }}{{ site.baseurl }}/assets/images/fsae/fsae_cad_pres.png)
 ![fsae_cad_pres1]({{ site.url }}{{ site.baseurl }}/assets/images/fsae/fsae_cad_pres1.png)
+![fsae_cad_pres]({{ site.url }}{{ site.baseurl }}/assets/images/fsae/fsae_cad_pres.png)
+
 
 
 ## Formula:SAE Development Process
-Part of my work during the COVID period was to re-imagine the way that the team was managed. Previously, project management had been mostly ad-hoc and was extremely vulnerable to key personal loss. Formalizing the process significantly reduced repeated work, made it much easier to communicate across sub-teams (particularly remotely), and gave clarity on deadlines.
+Part of my work during the COVID period was to re-imagine the way that the team was managed. Previously, project management had been mostly ad-hoc and was extremely vulnerable to key personnel loss. Formalizing the process significantly reduced repeated work, made it much easier to communicate across sub-teams (particularly remotely), and gave clarity on deadlines.
 
-[F:SAE development process document]({{ site.url }}{{ site.baseurl }}/assets/docs/4yp/KS_hmer101_FR.pdf)
+[F:SAE development process document]({{ site.url }}{{ site.baseurl }}/assets/docs/4yp/FSAE-47_FDP.pdf)
 
 # Driveline Leader
 ## Titanium 3D Printed Suspension Brackets
-Worked on the design, manufacture and build of topology-optimized, titanium 3d-printed suspension pickup point brackets. Their difficult organic geometry required intelligent fig design for post-machining.
+I worked on the design, manufacture and build of topology-optimized, titanium 3d-printed suspension pickup point brackets. Their difficult organic geometry required intelligent jig design for post-machining.
 
 ![bracket_blank]({{ site.url }}{{ site.baseurl }}/assets/images/fsae/bracket_blank.png)
-![bracket_jig_design]({{ site.url }}{{ site.baseurl }}/assets/images/fsae/bracket_jig_design.png)
-![bracket_jig_manufacture]({{ site.url }}{{ site.baseurl }}/assets/images/fsae/bracket_jig_manufacture.png)
-![bracket_post_machine_drawing]({{ site.url }}{{ site.baseurl }}/assets/images/fsae/bracket_post_machine_drawing.png)
 ![bracket_stress]({{ site.url }}{{ site.baseurl }}/assets/images/fsae/bracket_stress.png)
 ![bracket_top_opt]({{ site.url }}{{ site.baseurl }}/assets/images/fsae/bracket_top_opt.png)
-![brackets_in_box]({{ site.url }}{{ site.baseurl }}/assets/images/fsae/brackets_in_box.png)
+<!-- ![bracket_post_machine_drawing]({{ site.url }}{{ site.baseurl }}/assets/images/fsae/bracket_post_machine_drawing.png) -->
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/fsae/bracket_post_machine_drawing.png" width="50%" alt="bracket_post_machine_drawing">
+![bracket_jig_design]({{ site.url }}{{ site.baseurl }}/assets/images/fsae/bracket_jig_design.png)
+![bracket_jig_manufacture]({{ site.url }}{{ site.baseurl }}/assets/images/fsae/bracket_jig_manufacture.png)
+![brackets_in_box]({{ site.url }}{{ site.baseurl }}/assets/images/fsae/brackets_in_box.jpg)
 
 
 ## Planetary Gearboxes
 A 1.5-stage reduction planetary gearbox to deliver power from our brushless DC motors to the wheel.
 
-![gear_blanks]({{ site.url }}{{ site.baseurl }}/assets/images/fsae/gear_blanks.png)
-![planetary_gearbox_2018]({{ site.url }}{{ site.baseurl }}/assets/images/fsae/planetary_gearbox.png)
-![gearbox_and_motor_2018]({{ site.url }}{{ site.baseurl }}/assets/images/fsae/gearbox_and_motor.png)
+<!-- ![gear_blanks]({{ site.url }}{{ site.baseurl }}/assets/images/fsae/gear_blanks.png) -->
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/fsae/gear_blanks.png" width="25%" alt="gear_blanks">
+<!-- ![planetary_gearbox_2018]({{ site.url }}{{ site.baseurl }}/assets/images/fsae/planetary_gearbox.png) -->
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/fsae/planetary_gearbox.png" width="25%" alt="planetary_gearbox_2018">
+<!-- ![gearbox_and_motor_2018]({{ site.url }}{{ site.baseurl }}/assets/images/fsae/gearbox_and_motor.png) -->
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/fsae/gearbox_and_motor.png" width="25%" alt="gearbox_and_motor_2018">
 
 
 # Miscellaneous Projects
 ## Track Importer
-I made a few software tools to improve efficiency. One example is this MATLAB tool to automatically import, into our custom simulator, F:SAE race-tracks from GPS data. Previously, the track geometry was manually calculated and entered which could take a few hours (using the tool takes under a minute).
+I made a few software tools to improve efficiency. One example is this MATLAB tool to automatically import, into our custom simulator, F:SAE race-tracks from GPS data. Previously, the track geometry was manually calculated and entered which could take a few hours (using this tool takes under a minute).
 
 ![track_importer]({{ site.url }}{{ site.baseurl }}/assets/images/fsae/track_importer.png)
 
