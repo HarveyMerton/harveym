@@ -29,22 +29,18 @@ gallery:
     alt: "Physical system on ground"
 ---
 
-- [Code](): Will be open-sourced after publishing.
-- Documentation:
+- **[Code]**(): Will be open-sourced after publishing.
+- **Documentation**:
   - [Project report: visual pose estimation]({{ site.url }}{{ site.baseurl }}/assets/docs/masters/16_485_project_report.pdf)
+  - [Project report: cable dynamics modelling with universal differential equations]({{ site.url }}{{ site.baseurl }}/assets/docs/masters/18_337_project_report.pdf)
+  - [Project report: trajectory optimization and control with Drake]({{ site.url }}{{ site.baseurl }}/assets/docs/masters/6_8210_project_report.pdf)
+  - [Workshop poster IROS 2023: agricultural methane emissions measurement with a multi-drone slung load system]({{ site.url }}{{ site.baseurl }}/assets/docs/masters/IROS2023_WRIA_HM.pdf)
 
 
 # Overview
+This project forms the core of my Master's work, due to be complete August 2024. The motivation is to create a platform to autonomously deploy any sensor across a range of outdoor environments. Using an aerial system is ideal as they can quickly access challenging areas. Using multiple drones allows for more control over the slung load's pose. Further, heavier loads can be carried, and the air downwash from the drones' propellers can be shifted laterally away from the sensing device thus preventing interference with sensor readings.
 
-
-
-
-
-This project formed the core of my Master's work.
-
-Extensive programming & platform development w/ PX4, ROS2 etc....
-
-At least one publication and a thesis will come out of this project on completion.
+As I am the sole researcher working on the project, I independently built the testing system from the ground up. This involved *extensive* development in ROS2 (both python and c++) and PX4 autopilot to create a full simulation and real-world testing platform. This work required knowledge across the robotics stack from computer vision, pose estimation, trajectory optimization/motion planning, and controls. Further, I have scoped, driven and executed novel research on the load's visual pose estimation and cable dynamics modelling systems. At least one publication and a thesis will come out of this project on completion, but please see the documents linked at the beginning of this page for now.
 
 
 {% include gallery caption="The physical multi-drone slung load platform I custom designed and built for testing." %}
@@ -58,7 +54,7 @@ At least one publication and a thesis will come out of this project on completio
 </figure>
 
 
-# Visual Pose Estimation
+<!-- # Visual Pose Estimation
 
 
 # Cable Dynamics Modelling
@@ -67,4 +63,4 @@ At least one publication and a thesis will come out of this project on completio
 # Trajectory Optimization and Control
 
 
-# Application: Measuring Methane Emissions
+# Application: Measuring Methane Emissions -->
