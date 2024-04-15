@@ -7,6 +7,8 @@ header:
 sidebar:
   - title: "Summary"
     text: "Using a system of multiple drones to carry a single slung load. Allows the carrying of heavier loads with more precise control over load pose."
+  - title: "Skills"
+    text: "Mutli-agent coordination, computer vision, openCV, visual pose estimation, universal differential equations, machine learning, trajectory optimization, control, networking, ROS2, gazebo, PX4 autopilot, python, C++, julia, drake."
   # - title: "Code"
   # - label: "GitHub"
   #   icon: "fab fa-fw fa-github"
@@ -30,9 +32,7 @@ gallery:
 ### Quick Links
 
 - [Code](): Will be open-sourced after publishing.
-- [Project report: visual pose estimation](/assets/docs/16_485_project_report.pdf)
-
-
+- ![Project report: visual pose estimation](/assets/docs/masters/16_485_project_report.pdf)
 # Overview
 
 
