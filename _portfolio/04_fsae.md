@@ -78,12 +78,12 @@ I worked on the design, manufacture and build of topology-optimized, titanium 3d
 ![bracket_stress]({{ site.url }}{{ site.baseurl }}/assets/images/fsae/bracket_stress.png)
 ![bracket_top_opt]({{ site.url }}{{ site.baseurl }}/assets/images/fsae/bracket_top_opt.png)
 <!-- ![bracket_post_machine_drawing]({{ site.url }}{{ site.baseurl }}/assets/images/fsae/bracket_post_machine_drawing.png) -->
-<img src="{{ site.url }}{{ site.baseurl }}/assets/images/fsae/bracket_post_machine_drawing.png" width="50%" alt="bracket_post_machine_drawing">
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/fsae/bracket_post_machine_drawing.png" width="75%" alt="bracket_post_machine_drawing">
 ![bracket_jig_design]({{ site.url }}{{ site.baseurl }}/assets/images/fsae/bracket_jig_design.png)
 <!-- ![bracket_jig_manufacture]({{ site.url }}{{ site.baseurl }}/assets/images/fsae/bracket_jig_manufacture.png) -->
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/fsae/bracket_jig_manufacture.png" width="50%" alt="bracket_jig_manufacture">
 <!-- ![brackets_in_box]({{ site.url }}{{ site.baseurl }}/assets/images/fsae/brackets_in_box.jpg) -->
-<img src="{{ site.url }}{{ site.baseurl }}/assets/images/fsae/brackets_in_box.png" width="50%" alt="brackets_in_box">
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/fsae/brackets_in_box.jpg" width="50%" alt="brackets_in_box">
 
 
 ## Planetary Gearboxes
