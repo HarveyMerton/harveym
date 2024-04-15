@@ -35,7 +35,7 @@ This project was completed for The University of Auckland's class 'ME706 mechatr
 
 
 <figure>
-  <video width="800" height="600" controls>
+  <video width="800" height="600" controls muted>
     <source src="{{ site.url }}{{ site.baseurl }}/assets/docs/me_706/final_run.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
