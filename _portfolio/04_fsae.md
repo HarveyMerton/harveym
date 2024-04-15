@@ -46,10 +46,10 @@ Formula student is a series of international competitions where student teams de
 
 {% include gallery caption="F:SAE vehicles I was involved in." %}
 
-**M021 vehicle testing:**
+**M021 vehicle testing**
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TOayDh8kS5Q?si=snIrMKrLFqk1-nX8" title="M021 vehicle testing" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<br/><br/>
+<br/>
 
 Below is a small description of some of the roles I held, and projects I worked on during my time on the team. This is only a very small subset of the work which averaged around 10 hours a week in the early years, and 20 in the later years. More projects will be added as I find more images.
 
@@ -78,22 +78,23 @@ I worked on the design, manufacture and build of topology-optimized, titanium 3d
 ![bracket_stress]({{ site.url }}{{ site.baseurl }}/assets/images/fsae/bracket_stress.png)
 ![bracket_top_opt]({{ site.url }}{{ site.baseurl }}/assets/images/fsae/bracket_top_opt.png)
 <!-- ![bracket_post_machine_drawing]({{ site.url }}{{ site.baseurl }}/assets/images/fsae/bracket_post_machine_drawing.png) -->
-<img src="{{ site.url }}{{ site.baseurl }}/assets/images/fsae/bracket_post_machine_drawing.png" width="25%" alt="bracket_post_machine_drawing">
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/fsae/bracket_post_machine_drawing.png" width="50%" alt="bracket_post_machine_drawing">
 ![bracket_jig_design]({{ site.url }}{{ site.baseurl }}/assets/images/fsae/bracket_jig_design.png)
-![bracket_jig_manufacture]({{ site.url }}{{ site.baseurl }}/assets/images/fsae/bracket_jig_manufacture.png)
+<!-- ![bracket_jig_manufacture]({{ site.url }}{{ site.baseurl }}/assets/images/fsae/bracket_jig_manufacture.png) -->
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/fsae/bracket_jig_manufacture.png" width="50%" alt="bracket_jig_manufacture">
 <!-- ![brackets_in_box]({{ site.url }}{{ site.baseurl }}/assets/images/fsae/brackets_in_box.jpg) -->
-<img src="{{ site.url }}{{ site.baseurl }}/assets/images/fsae/brackets_in_box.png" width="25%" alt="brackets_in_box">
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/fsae/brackets_in_box.png" width="50%" alt="brackets_in_box">
 
 
 ## Planetary Gearboxes
 A 1.5-stage reduction planetary gearbox to deliver power from our brushless DC motors to the wheel.
 
 <!-- ![gear_blanks]({{ site.url }}{{ site.baseurl }}/assets/images/fsae/gear_blanks.png) -->
-<img src="{{ site.url }}{{ site.baseurl }}/assets/images/fsae/gear_blanks.png" width="25%" alt="gear_blanks">
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/fsae/gear_blanks.png" width="30%" alt="gear_blanks">
 <!-- ![planetary_gearbox_2018]({{ site.url }}{{ site.baseurl }}/assets/images/fsae/planetary_gearbox.png) -->
-<img src="{{ site.url }}{{ site.baseurl }}/assets/images/fsae/planetary_gearbox.png" width="25%" alt="planetary_gearbox_2018">
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/fsae/planetary_gearbox.png" width="30%" alt="planetary_gearbox_2018">
 <!-- ![gearbox_and_motor_2018]({{ site.url }}{{ site.baseurl }}/assets/images/fsae/gearbox_and_motor.png) -->
-<img src="{{ site.url }}{{ site.baseurl }}/assets/images/fsae/gearbox_and_motor.png" width="25%" alt="gearbox_and_motor_2018">
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/fsae/gearbox_and_motor.png" width="30%" alt="gearbox_and_motor_2018">
 
 
 <!-- ## Cooling jackets -->
