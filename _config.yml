@@ -61,7 +61,7 @@ plugins:
 author:
   name   : "Harvey Merton"
   avatar : "/assets/images/mit_headshot_cropped.jpg"
-  bio    : "Robotics and autonomous systems for the benefit of humankind."
+  bio    : "MIT Masters: robotics and autonomous systems" #for the benefit of humankind.
   links:
     # - label: "Website"
     #   icon: "fas fa-fw fa-link"
