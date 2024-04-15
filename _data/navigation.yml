@@ -7,5 +7,9 @@ main:
   #   url: /tags/
   - title: "Projects"
     url: /portfolio/
+  # - title: "Publications"
+  #   url: /portfolio/
+  # - title: "Adventures" (including Denmark summer school + mclaren etc.)
+  #   url: /portfolio/
   - title: "About"
     url: /about/
