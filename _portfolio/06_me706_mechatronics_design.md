@@ -2,8 +2,8 @@
 title: "Fuzzy logic control and behavior coordination for a mobile robot"
 excerpt: "A fully mobile fire-fighting robot run with fuzzy logic control."
 header:
-  image: /assets/images/me_706/robot.png
-  teaser: assets/images/me_706/robot.png
+  image: /assets/images/me_706/robot.jpg
+  teaser: assets/images/me_706/robot.jpg
 sidebar:
   - title: "Summary"
     text: "A fully mobile fire-fighting robot run with fuzzy logic control."
@@ -18,8 +18,8 @@ sidebar:
   #   icon: "fas fa-fw fa-envelope"
   #   url: "mailto:hmer101@mit.edu"
 gallery:
-  - url: /assets/images/me_706/robot.png
-    image_path: assets/images/me_706/robot.png
+  - url: /assets/images/me_706/robot.jpg
+    image_path: assets/images/me_706/robot.jpg
     alt: "The fire-fighting robot"
 ---
 

@@ -1,9 +1,9 @@
 ---
-title: "Turtlebot navigating unknown worlds"
+title: "Obstacle avoidance in an unknown world"
 excerpt: "A custom Bug2 obstacle avoidance algorithm for escaping a room using a bumper and lidar."
 header:
-  image: /assets/images/cs726/final_world.png
-  teaser: assets/images/cs726/final_world.png
+  image: /assets/images/cs_726/final_world.png
+  teaser: assets/images/cs_726/final_world.png
 sidebar:
   - title: "Summary"
     text: "A custom Bug2 obstacle avoidance algorithm for escaping a room using a bumper and lidar."
@@ -18,9 +18,9 @@ sidebar:
   #   icon: "fas fa-fw fa-envelope"
   #   url: "mailto:hmer101@mit.edu"
 gallery:
-  - url: /assets/images/6_4132_padm/arm_on_base.png
-    image_path: assets/images/6_4132_padm/arm_on_base.png
-    alt: "Physical system on cart"
+  - url: /assets/images/cs_726/final_world.png
+    image_path: assets/images/cs_726/final_world.png
+    alt: "Final evaluation world."
 ---
 
 - **[Code](https://github.com/HarveyMerton/cs726_project)**
