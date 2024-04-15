@@ -98,7 +98,7 @@ defaults:
     values:
       layout: single
       author_profile: false
-      toc: false #true
+      toc: true
       share: false
   # _pages
   - scope:

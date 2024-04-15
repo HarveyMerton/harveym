@@ -29,7 +29,7 @@ gallery:
     alt: "Physical system on ground"
 ---
 
-- **[Code]**(): Will be open-sourced after publishing.
+- **Code**: Will be open-sourced after publishing. 
 - **Documentation**:
   - [Project report: visual pose estimation]({{ site.url }}{{ site.baseurl }}/assets/docs/masters/16_485_project_report.pdf)
   - [Project report: cable dynamics modelling with universal differential equations]({{ site.url }}{{ site.baseurl }}/assets/docs/masters/18_337_project_report.pdf)
@@ -38,9 +38,9 @@ gallery:
 
 
 # Overview
-This project forms the core of my Master's work, due to be complete August 2024. The motivation is to create a platform to autonomously deploy any sensor across a range of outdoor environments. Using an aerial system is ideal as they can quickly access challenging areas. Using multiple drones allows for more control over the slung load's pose. Further, heavier loads can be carried, and the air downwash from the drones' propellers can be shifted laterally away from the sensing device thus preventing interference with sensor readings.
+This project forms the core of my Master's work, due to be complete August 2024. The motivation is to create a platform to autonomously deploy any sensor across a range of outdoor environments. Using an aerial system is ideal as they can quickly access challenging areas. Using multiple drones allows for more control over the slung load's pose. Further, heavier loads can be carried, and the air downwash from the drones' propellers can be shifted laterally away from the sensing device, thus preventing interference with sensor readings.
 
-As I am the sole researcher working on the project, I independently built the testing system from the ground up. This involved *extensive* development in ROS2 (both python and c++) and PX4 autopilot to create a full simulation and real-world testing platform. This work required knowledge across the robotics stack from computer vision, pose estimation, trajectory optimization/motion planning, and controls. Further, I have scoped, driven and executed novel research on the load's visual pose estimation and cable dynamics modelling systems. At least one publication and a thesis will come out of this project on completion, but please see the documents linked at the beginning of this page for now.
+As the sole researcher working on the project, I independently built the testing system from the ground up. This involved *extensive* development in ROS2 (both python and c++) and PX4 autopilot to create a full simulation and real-world testing platform. This work required knowledge across the robotics stack from computer vision, pose estimation, trajectory optimization/motion planning, and controls. Further, I have scoped, driven and executed novel research on the load's visual pose estimation and cable dynamics modelling systems. At least one publication and a thesis will come out of this project on completion, but please see the documents linked at the beginning of this page for now. These reports were generated as part of various graduate classes at MIT including: '16.485 visual navigation' (taught by Prof. Luca Carlone), '18.337 parallel computing and scientific machine learning' (taught by Prof. Alan Edelman), and '6.8210 underactuated robotics' (taught by Prof. Russ Tedrake).
 
 
 {% include gallery caption="The physical multi-drone slung load platform I custom designed and built for testing." %}
