@@ -9,7 +9,7 @@ sidebar:
   #   #text: "Trajectory optimization and control"
   #   text: "/assets/docs/masters/6_8210_project_report.pdf"
   - title: "Links"
-    - links:
+    links:
       - label: "Email"
         icon: "fas fa-fw fa-envelope"
         url: "mailto:hmer101@mit.edu"
@@ -36,7 +36,7 @@ At least one publication and a thesis will come out of this project on completio
 {% include gallery caption="The physical multi-drone slung load platform I custom designed and built for testing." %}
 
 <figure>
-  <video width="960" height="720" controls>
+  <video width="800" height="600" controls>
     <source src="{{ site.url }}{{ site.baseurl }}/assets/images/masters/16.485_compiled_videos.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
