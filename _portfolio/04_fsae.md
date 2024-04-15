@@ -1,6 +1,6 @@
 ---
-title: "Intelligent planning for a mobile manipulator"
-excerpt: "Using PDDL, custom implementations of classical search algorithms, and nonlinear mathematical optimization for action and motion planning."
+title: "Reinforcement learning for autonomous race cars"
+excerpt: "Using reinforcement learning for local path following of an autonomous formula student race car."
 header:
   image: /assets/images/6_4132_padm/arm_on_base.png
   teaser: assets/images/6_4132_padm/arm_on_base.png
@@ -28,6 +28,8 @@ gallery:
   #   image_path: assets/images/masters/phys_on_ground_tall.jpg
   #   alt: "Physical system on ground"
 ---
+
+https://www.fsae.co.nz/
 
 - **[Code](https://github.com/hmer101/6_4132_arm_planning/tree/main)**
 - **Documentation**:
