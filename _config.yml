@@ -75,6 +75,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/hmer101"
+    - label: "CV"
+      icon: "fas fa-fw fa-file"
+      url: "/assets/docs/CV_HarveyMerton.pdf"
     
 
 footer:
