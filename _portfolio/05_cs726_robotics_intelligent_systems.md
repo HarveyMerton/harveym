@@ -29,7 +29,7 @@ gallery:
 
 
 # Overview
-This project was completed for The University of Auckland's class 'CS726 robotics and intelligent systems'. The goal is to use reactive functionality and obstacle avoidance to navigate a turtlebot through an unknown environment. Please see the document attached above for a discussion of how this challenge was approached. The world shown is the final evaluation world where the goal is to reach the open doorway.  
+This project was completed for The University of Auckland's class 'CS726 robotics and intelligent systems' (which I ranked first in). The goal is to use reactive functionality and obstacle avoidance to navigate a turtlebot through an unknown environment. Please see the document attached above for a discussion of how this challenge was approached. The world shown is the final evaluation world where the goal is to reach the open doorway.  
 
 
 {% include gallery caption="The final world used for evaluation." %}
