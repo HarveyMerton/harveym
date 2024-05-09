@@ -34,7 +34,7 @@ gallery:
   - [Project report: visual pose estimation]({{ site.url }}{{ site.baseurl }}/assets/docs/masters/16_485_project_report.pdf)
   - [Project report: cable dynamics modelling with universal differential equations]({{ site.url }}{{ site.baseurl }}/assets/docs/masters/18_337_project_report.pdf)
   - [Project report: trajectory optimization and control with Drake]({{ site.url }}{{ site.baseurl }}/assets/docs/masters/6_8210_project_report.pdf)
-  - [Workshop poster IROS 2023: agricultural methane emissions measurement with a multi-drone slung load system]({{ site.url }}{{ site.baseurl }}/assets/docs/masters/IROS2023_WRIA_HM.pdf)
+  - [Workshop poster IROS 2023: agricultural methane emissions measurement with a multi-drone slung load system]({{ site.url }}{{ site.baseurl }}/assets/docs/masters/IROS2023_WRIA_HM_poster.pdf)
 
 
 # Overview
